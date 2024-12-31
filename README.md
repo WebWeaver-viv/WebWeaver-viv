@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 🚀
 🔗 Let’s Connect!
 
 	•	💬 Open to collaboration and discussions. Feel free to reach out!
-	•	📧 Email: jjgjitendragupta62@gmail.com
+	•	📧 Email: jgjitendragupta62@gmail.com
 
 <!---
 WebWeaver-viv/WebWeaver-viv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
